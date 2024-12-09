@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "intrigued-green-donuts",
+    "slug": "snack-f89b2d1d-aa64-48ec-8166-36dbe6d31ed1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.aldifauzyy_777.snackf89b2d1daa6448ec816636dbe6d31ed1"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "624b262b-ada2-477b-8a1c-4c66d759dffb"
+      }
+    }
+  }
+}
